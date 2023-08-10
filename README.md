@@ -1,2 +1,2 @@
 # Projects-EDA
- It's all about the journey of my EDA (Exploratory Data Analysis) projects.
+It's all about conducting churn analysis for Orange, a French telecom company.
